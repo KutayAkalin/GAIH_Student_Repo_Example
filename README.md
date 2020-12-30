@@ -7,6 +7,12 @@
 
 **Note:** Your homeworks can be any format like .ipynb, .py, .txt and so on. Make sure that your codes works.
 
+## Project Name
+Description...
+
+## Requirements
+Some python libraries
+
 ---
 
 ### Certification
