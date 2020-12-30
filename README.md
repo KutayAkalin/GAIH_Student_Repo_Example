@@ -1,4 +1,4 @@
 # GAIH Student Repo Example
 
-**Name:** Elif 
+**Name:** Elif  
 **Surname:** Yiğit
